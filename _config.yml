@@ -19,3 +19,4 @@ google_analytics: UA-111111111-1
 twitter:
   username: 
   card: summary #keep this to generate a twitter share card
+theme: jekyll-theme-cayman
