@@ -9,5 +9,5 @@
 - name: CONTACTO
   link: "#contact-section"
 - name: PUBLICAR
-  link: "#home-section"
+  link: "/publicar.html"
   
