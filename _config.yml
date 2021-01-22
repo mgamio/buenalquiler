@@ -16,7 +16,7 @@ author: name
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 
-google_analytics: G-Z38T7P1942
+
 twitter:
   username: 
   card: summary #keep this to generate a twitter share card
