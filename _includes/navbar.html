@@ -21,16 +21,18 @@
 
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">	
 	            {% for item in site.data.navbar %}
-                  <li><a href="{{ item.link }}" class="nav-link">{{ item.name }}</a></li>			
+                  <li class="nav-item"><a class="nav-link" href="{{ item.link }}">{{ item.name }}</a></li>
 				{% endfor %}
+				
               </ul>
+			  
             </nav>
           </div>
 
-
-          <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-white float-right"><span class="icon-menu h3"></span></a></div>
+          <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3"><a href="{{ item.link }}" class="site-menu-toggle js-menu-toggle text-white float-right"><span class="icon-menu h3"></span></a></div>
 
         </div>
       </div>
       
+	  
     </header>
