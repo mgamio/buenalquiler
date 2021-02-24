@@ -1,13 +1,12 @@
 - name: INICIO
   link: "#home-section"
-- name: ALQUILERES
+- name: ALQUILER
   link: "#properties-section"
-- name: AGENTES
-  link: "#agents-section"
 - name: NOSOTROS
   link: "#about-section"
 - name: CONTACTO
   link: "#contact-section"
 - name: PUBLICAR
   link: "#publicar-section"
-  
+- name: VENTA
+  link: "#selling-section"
