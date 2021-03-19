@@ -3,7 +3,7 @@ tagline: "Alquiler de Departamentos en Lima"
 email: "your.email@gmail.com"
 description: "Encuentra la mejor oferta de departamentos en alquiler en Lima. Actualmente tenemos disponibles en San Miguel"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://buenalquiler.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: name
 
 sass:
