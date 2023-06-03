@@ -31,8 +31,6 @@
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
 
-    {% include tracking-header.html %}
-
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
      {%- include google-analytics.html -%}
     {%- endif -%}
@@ -88,8 +86,8 @@
         <div class="container">
         <div class="row align-items-center justify-content-between">
             <div>
-                <span class="navbar-brand mr-2 mb-0"><strong>buenAlquiler</strong></span>
                 
+                <a class="navbar-brand" href="{{ site.baseurl }}/index.html"><strong>{{site.name}}</strong></a>
 
             </div>
             <div>
@@ -98,8 +96,6 @@
         </div>
         </div>
     </footer>
-
-    {% include tracking-footer.html %}
 
 </body>
 

@@ -8,7 +8,7 @@ tags: featured
 ---
 Para invertir en bienes raíces, es importante tener en cuenta varios conceptos financieros importantes. Algunos de ellos incluyen:
 
-1. Flujo de caja: El flujo de caja es la cantidad de dinero que entra y sale de una inversión en un período determinado. Al invertir en bienes raíces, es importante tener en cuenta el flujo de caja para asegurarse de que el ingreso generado por la propiedad supere los gastos y los costos de la inversión.
+1. Flujo de caja: El [flujo de caja](https://buenalquiler.com/flujo-de-efectivo/){:target="_blank"} es la cantidad de dinero que entra y sale de una inversión en un período determinado. Al invertir en bienes raíces, es importante tener en cuenta el flujo de caja para asegurarse de que el ingreso generado por la propiedad supere los gastos y los costos de la inversión.
 
 2. Rentabilidad: La rentabilidad es la medida de la ganancia o pérdida que se obtiene de una inversión. En el caso de la inversión en bienes raíces, la rentabilidad se puede medir mediante la tasa de retorno sobre la inversión (ROI) o la tasa de capitalización (cap rate).
 

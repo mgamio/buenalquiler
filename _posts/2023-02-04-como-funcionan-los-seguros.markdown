@@ -8,7 +8,7 @@ Los seguros son contratos que se establecen entre una compañía de seguros y un
 
 Existen muchos tipos de seguros, algunos de los cuales incluyen:
 
-1. Seguros de vida: Estos seguros proporcionan un pago en efectivo a los beneficiarios designados en caso de fallecimiento del asegurado. También pueden incluir opciones para ahorrar dinero a largo plazo.
+1. Seguros de vida: Estos seguros proporcionan un pago en efectivo a los beneficiarios designados en caso de fallecimiento del asegurado. También pueden incluir opciones para ahorrar [dinero](https://buenalquiler.com/el-costo-del-dinero/){:target="_blank"}  a largo plazo.
 
 2. Seguros de salud: Estos seguros ayudan a cubrir los costos médicos en caso de enfermedad o lesión. Pueden cubrir visitas al médico, hospitalización, medicamentos y otros gastos médicos.
 

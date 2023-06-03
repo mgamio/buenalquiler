@@ -18,8 +18,6 @@ Las direcciones de correo electrónico no se venderán, alquilarán ni arrendar�
 Es posible que le enviemos un correo electrónico para informarle sobre noticias de nuestros servicios u ofertas.
 
 ## Opciones de visitante
-Si se ha suscrito a uno de nuestros servicios, puede darse de baja siguiendo las instrucciones que se incluyen en el correo electrónico que recibe.
-
 Es posible que pueda bloquear las cookies a través de la configuración de su navegador, pero esto puede impedirle acceder a ciertas funciones del sitio web.
 
 ## Cookies
