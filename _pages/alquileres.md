@@ -2,7 +2,6 @@
 title: "Alquileres"
 layout: page-alquiler
 permalink: "/alquileres.html"
-image: "/assets/images/screenshot.jpg"
 comments: true
 ---
 
